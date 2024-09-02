@@ -3,7 +3,7 @@
 </div>
 
 # HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics
-### [Project Page](https://joslefaure.github.io/assets/html/hermes.html) | [Paper]()
+### [Project Page](https://joslefaure.github.io/assets/html/hermes.html) | [Paper](https://arxiv.org/abs/2408.17443)
 This is the official repository of our papers: 
 - "**HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics**"
 - "**BREASE: Bridging Episodes and Semantics, A Novel Framework for Long-Form Video Understanding**" (ECCVW'24).
