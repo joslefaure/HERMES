@@ -70,6 +70,8 @@ I prefer my `bert-base-uncased` locally, therefore I added it here too. Download
 ### Inference
 We inference the model on 4 V100 GPUs (32GB). 
 
+First add your openai API to the environment variable `export OPENAI_API_KEY='sk-*****` (only for moviechat dataset), as we use GPT3.5 for scoring. For the other datasets, we report top-1 accuracy.
+
 
 ```bash
 # Zero-shot
