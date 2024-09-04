@@ -22,7 +22,7 @@ model:
   num_query_token: 32
 
   # path to Vicuna checkpoint
-  llm_model: "/fsx/boheumd/LAVIS/llm/vicuna-7b"
+  llm_model: "llm/vicuna-7b"
 
   # generation configs
   prompt: ""
