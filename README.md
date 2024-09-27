@@ -3,6 +3,10 @@
 </div>
 
 # HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-episodes-and-semantics-a-novel/video-classification-on-breakfast)](https://paperswithcode.com/sota/video-classification-on-breakfast?p=bridging-episodes-and-semantics-a-novel)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-episodes-and-semantics-a-novel/video-classification-on-coin-1)](https://paperswithcode.com/sota/video-classification-on-coin-1?p=bridging-episodes-and-semantics-a-novel)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-episodes-and-semantics-a-novel/zero-shot-long-video-global-model-question)](https://paperswithcode.com/sota/zero-shot-long-video-global-model-question?p=bridging-episodes-and-semantics-a-novel)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-episodes-and-semantics-a-novel/zero-shot-long-video-breakpoint-mode-question)](https://paperswithcode.com/sota/zero-shot-long-video-breakpoint-mode-question?p=bridging-episodes-and-semantics-a-novel)
 ### [Project Page](https://joslefaure.github.io/assets/html/hermes.html) | [Paper](https://arxiv.org/abs/2408.17443)
 This is the official repository of our papers: 
 - "**HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics**"
